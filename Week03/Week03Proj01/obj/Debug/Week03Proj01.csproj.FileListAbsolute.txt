@@ -1,0 +1,10 @@
+D:\071\Week03\Week03Proj01\bin\Debug\Week03Proj01.exe.config
+D:\071\Week03\Week03Proj01\bin\Debug\Week03Proj01.exe
+D:\071\Week03\Week03Proj01\bin\Debug\Week03Proj01.pdb
+D:\071\Week03\Week03Proj01\obj\Debug\Week03Proj01.csproj.AssemblyReference.cache
+D:\071\Week03\Week03Proj01\obj\Debug\Week03Proj01.Form1.resources
+D:\071\Week03\Week03Proj01\obj\Debug\Week03Proj01.Properties.Resources.resources
+D:\071\Week03\Week03Proj01\obj\Debug\Week03Proj01.csproj.GenerateResource.cache
+D:\071\Week03\Week03Proj01\obj\Debug\Week03Proj01.csproj.CoreCompileInputs.cache
+D:\071\Week03\Week03Proj01\obj\Debug\Week03Proj01.exe
+D:\071\Week03\Week03Proj01\obj\Debug\Week03Proj01.pdb
