@@ -1,0 +1,10 @@
+D:\2025_1_Csharp\Week04Homework\bin\Debug\Week04Homework.exe.config
+D:\2025_1_Csharp\Week04Homework\bin\Debug\Week04Homework.exe
+D:\2025_1_Csharp\Week04Homework\bin\Debug\Week04Homework.pdb
+D:\2025_1_Csharp\Week04Homework\obj\Debug\Week04Homework.csproj.AssemblyReference.cache
+D:\2025_1_Csharp\Week04Homework\obj\Debug\Week04Homework.FormManager.resources
+D:\2025_1_Csharp\Week04Homework\obj\Debug\Week04Homework.Properties.Resources.resources
+D:\2025_1_Csharp\Week04Homework\obj\Debug\Week04Homework.csproj.GenerateResource.cache
+D:\2025_1_Csharp\Week04Homework\obj\Debug\Week04Homework.csproj.CoreCompileInputs.cache
+D:\2025_1_Csharp\Week04Homework\obj\Debug\Week04Homework.exe
+D:\2025_1_Csharp\Week04Homework\obj\Debug\Week04Homework.pdb
